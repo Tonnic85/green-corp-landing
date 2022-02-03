@@ -114,7 +114,7 @@ body {
 
 
 
-.form_form {
+.form_f {
   display: grid;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   grid-gap: 20px;
